@@ -24,6 +24,6 @@ soundnessup install
 ```
 
 ```bash
-soundness-cli generate-key --name my-key
+soundness-cli import-key --name my-key --mnemonic "<paste your MNEMONIC here>"
 ```
 
