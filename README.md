@@ -22,7 +22,9 @@ source $HOME/.cargo/env
 ```bash
 soundnessup install
 ```
-
+```bash
+soundnessup update
+```
 ```bash
 soundness-cli import-key --name my-key --mnemonic "<paste your MNEMONIC here>"
 ```
